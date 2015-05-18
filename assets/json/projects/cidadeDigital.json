@@ -1,6 +1,6 @@
 {
 	 "name" 	     : "Cidade Digital"
-	,"tags" 	     : []
+	,"tags" 	     : ["Tecnologia", "Internet"]
 	,"description"   : "Oferecer marketing digital direcional para empresas que atuam no shopping, e wifi gratis aos usuarios que frequentam"
 	,"budget" 	     : ""
 	,"totalValue"    : 10000 
@@ -49,6 +49,19 @@
 			}
 		]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Nome do projeto: "Cidade Digital",
 // Tags: "" (ex: Tecnologia, internet, comida ...)
 // Descrição : "Oferecer marketing digital direcional para empresas que atuam no shopping, e wifi gratis aos usuarios que frequentam",
